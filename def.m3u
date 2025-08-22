@@ -82,6 +82,7 @@ http://goldenpro.xyz:80/B299EX3/841YRPU/273363
 http://goldenpro.xyz:80/B299EX3/841YRPU/273365
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png" group-title="Deportes", ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 http://tvpremium.pro:8080/live/DiegoCarioca/Carioca23/e51bdd5c-6b89-4c37-a425-059fa39a6f4b.m3u
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports
 http://goldenpro.xyz:80/B299EX3/841YRPU/197733
